@@ -5,9 +5,9 @@ int main() {
     int n1, n2, n3;
     cout << "Insira sua primeira nota: ";
     cin >> n1;
-    cout << "Insira sua primeira nota: ";
+    cout << "Insira sua segunda nota: ";
     cin >> n2;
-    cout << "Insira sua primeira nota: ";
+    cout << "Insira sua terceira nota: ";
     cin >> n3;
     int me = (n1+n2+n3)/3;
 
