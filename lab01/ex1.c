@@ -43,5 +43,5 @@ int main()
             
         
     }
-    printf("Menor numero presente na linha: ", cont);
+    printf("Menor numero presente na linha: %d", cont);
 }
