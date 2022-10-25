@@ -1,5 +1,7 @@
 ###
 Código em Node usando Express (api.js)
+Load Balancer => Porta 80
+Instancias => Porta 3333
 
 Código rodando no load balancer (porta 80 redirecionando pra instancias 1 e 2) 76 reais conversão
 
